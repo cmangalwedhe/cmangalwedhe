@@ -4,10 +4,9 @@
 Hello, I am a programmer passionate in computer science and competitive programming! I work on simulations, past competition programming packets, and more.
 
 ### Interests:
-<li>Competitive Programming</li>
-<li>Graphics</li>
-<li>Website Development</li>
+<li>Cybersecurity</li>
 <li>Artificial Intelligence</li>
+<li>Website Development</li>
 
 ### Languages:
 
