@@ -1,7 +1,7 @@
 # Chinmay Mangalwedhe
 [Contact](mailto:cmangalwedhe@gmail.com)
 
-Hello, I am a programmer passionate in computer science and competitive programming! I work on simulations, past competition programming packets, and more.
+Hello, my name is Chinmay and I am a rising sophomore at Texas A&M University studying Computer Science!
 
 ### Interests:
 <li>Cybersecurity</li>
